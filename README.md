@@ -35,4 +35,4 @@ Dataset used is Speech audio-only files (16bit, 48kHz .wav) from the RAVDESS. It
 ## Future Scope -
 
 - Train and test Deep learning model to test the audio data
-- Need to consider various methods like augmentation and test its impact on model performance
+- Need to consider various methods like data augmentation and test its impact on model performance
